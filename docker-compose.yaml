@@ -1,0 +1,8 @@
+version: "3"
+
+
+services:
+      image: mynewapp
+      container_name: DevOpsA2
+      ports:
+          - "3001:3001"
